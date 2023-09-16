@@ -93,5 +93,5 @@ public class Movie {
 	public void setGenre(Genre genre) {
 		this.genre = genre;
 	}
-	
+
 }
